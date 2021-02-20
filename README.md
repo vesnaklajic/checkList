@@ -1,6 +1,6 @@
 # checkList
 
-### The application manege To do tasks.
+### The application menages To do tasks.
 
 ### User reguirements
 - A new task can be entred into DB. 
@@ -8,8 +8,10 @@
 - For every task a new card will be formed in the applicaton.
 - Task can be deleted also. 
 
-### Technical  requirements
-
+### Technical requirements
+- backend
+- frontend
+- DB
 
 ### Tools
 - Node.js
